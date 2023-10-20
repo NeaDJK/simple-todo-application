@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToDoApplication.Model", "SimpleToDoApplication.Model\SimpleToDoApplication.Model.csproj", "{6DD87E15-4AAB-40E6-AFEB-A0BD69D08958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToDoApplication.Interface", "SimpleToDoApplication.Interface\SimpleToDoApplication.Interface.csproj", "{4277451C-9D24-4812-A493-AAC093A68619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD87E15-4AAB-40E6-AFEB-A0BD69D08958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD87E15-4AAB-40E6-AFEB-A0BD69D08958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD87E15-4AAB-40E6-AFEB-A0BD69D08958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD87E15-4AAB-40E6-AFEB-A0BD69D08958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4277451C-9D24-4812-A493-AAC093A68619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4277451C-9D24-4812-A493-AAC093A68619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4277451C-9D24-4812-A493-AAC093A68619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4277451C-9D24-4812-A493-AAC093A68619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
